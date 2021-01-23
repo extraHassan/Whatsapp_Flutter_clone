@@ -1,6 +1,6 @@
 # whatsup_clone
 
-A new Flutter project.
+A clone of whatsapp application using Dart with Flutter framework. 
 
 ## Getting Started
 
